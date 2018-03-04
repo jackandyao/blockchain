@@ -4,3 +4,8 @@
 	"amount":333
 }
 
+http://raising.iteye.com/blog/2252456 kafka多线程消费
+
+http://blog.csdn.net/jack85986370/article/details/54098447 hbase多线程写入
+https://www.cnblogs.com/bdifn/p/3801737.html hbase表预分区
+http://blog.csdn.net/menghuannvxia/article/details/51858725 hbase多线程读取数据
